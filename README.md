@@ -4,4 +4,4 @@ This is a passion project of mine I have been working on. I love playing videos 
 
 This project is still in development.
 
-currently there is only a single level which is just a room for the player to run and jump and a spike pit t, which kilss the player on contact resting the level.
+currently there is only a single level which is just a room for the player to run and jump and a spike pit, which kilss the player on contact resting the level.
